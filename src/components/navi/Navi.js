@@ -12,7 +12,7 @@ export default class Navi extends Component {
                         light
                     >
                         <NavbarBrand href="/">
-                            reactstrap
+                            OALTUNORGU
                         </NavbarBrand>
                         <NavbarToggler onClick={function noRefCheck() { }} />
                         <Collapse navbar>
