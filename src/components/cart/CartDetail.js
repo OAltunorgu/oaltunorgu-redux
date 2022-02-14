@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import { Badge, Button, Table } from 'reactstrap'
+import { Button, Table } from 'reactstrap'
 import { bindActionCreators } from 'redux'
 import * as cartActions from "../../redux/actions/cartActions"
 import alertify from "alertifyjs"
