@@ -31,7 +31,7 @@ export default class Navi extends Component {
                                         GitHub
                                     </NavLink>
                                 </NavItem>
-                                <CartSummary/>
+                                <CartSummary />
                             </Nav>
                         </Collapse>
                     </Navbar>
